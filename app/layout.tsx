@@ -18,6 +18,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "GME Trading",
   description: "GME Trading website",
+  generator: "Next.js",
 }
 
 export default function RootLayout({
